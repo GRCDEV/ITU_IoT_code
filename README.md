@@ -1,6 +1,5 @@
 # ITU_IoT_code
 
-Misc code  to be used by students of ITU Internet of Things (IoT) Training Program - FM5: Physical IoT Infrastructure: From Device to Cloud
+Misc code  to be used by students of ITU Internet of Things (IoT) Training Program
 
-
-MQTT required library can be found there.
+Fundamental Module 5: Physical IoT Infrastructure: From Device to Cloud
